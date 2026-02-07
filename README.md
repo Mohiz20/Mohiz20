@@ -1,7 +1,9 @@
-# 💫 About Me:
-I’m a Senior Software Engineer at Beko Global, focused on turning ideas into reliable, scalable products.  
-<br>I enjoy building software that’s simple, maintainable, and easy for teams to work with.  
-<br><br>I’m passionate about collaborating on new ideas, improving systems as they grow, and writing code that other engineers actually enjoy using.
+## 💫 About Me
+
+Senior Software Engineer at Beko Global who enjoys turning ideas into reliable, scalable products.  
+I focus on building clean, maintainable software that helps teams move fast without breaking things.
+
+Always excited to collaborate on new ideas, improve existing systems, and solve real-world problems through thoughtful engineering.
 
 
 ## 🌐 Socials:
